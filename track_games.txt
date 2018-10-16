@@ -1,0 +1,2 @@
+[game_title] The Sims™ 4
+[game_price] $29.99
